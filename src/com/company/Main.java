@@ -10,5 +10,7 @@ public class Main {
         System.out.println("Third step");
 
         System.out.println("Fourth class");
+
+        System.out.println("Fifth class");
     }
 }
