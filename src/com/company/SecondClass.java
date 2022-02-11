@@ -14,5 +14,7 @@ public class SecondClass {
 
         System.out.println("I updated version");
 
+        System.out.println("last");
+
     }
 }
