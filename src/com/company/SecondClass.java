@@ -10,5 +10,6 @@ public class SecondClass {
         System.out.println("master to master");
 
         System.out.println("update from second");
+        System.out.println("first");
     }
 }
