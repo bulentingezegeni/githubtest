@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Second step");
 
         System.out.println("Third step");
+
+        System.out.println("Fourth class");
     }
 }
