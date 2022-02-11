@@ -16,5 +16,7 @@ public class SecondClass {
 
         System.out.println("last");
 
+        System.out.println("hello");
+
     }
 }
