@@ -6,5 +6,7 @@ public class Main {
         System.out.println("First class");
 
         System.out.println("Second step");
+
+        System.out.println("Third step");
     }
 }
